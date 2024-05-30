@@ -11,10 +11,10 @@
 	z = 87
 	#Saved camera position in x direction
 	#Range: 4.9E-324 ~ 1.7976931348623157E308
-	sx = 0.0
+	sx = 4.9E-324
 	#Saved camera position in y direction
 	#Range: 4.9E-324 ~ 1.7976931348623157E308
-	sy = 0.0
+	sy = 4.9E-324
 	#Saved camera position in z direction
 	#Range: 4.9E-324 ~ 1.7976931348623157E308
 	sz = 83.0
