@@ -8,6 +8,7 @@ saves
 schematics
 screenshots
 XaeroWaypoints
+config
 .curseclient
 .qmenu_opened.marker
 .sl_password
@@ -18,4 +19,3 @@ usernamecache.json
 *.txt
 *.log
 *.dat_old
-config
