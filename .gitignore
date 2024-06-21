@@ -19,3 +19,7 @@ usernamecache.json
 *.txt
 *.log
 *.dat_old
+*.nbt
+XaeroWaypoints_BACKUP032021
+modernfix
+structureCacheV1
